@@ -1,5 +1,5 @@
-# betaflight-tx-lua-basic
-Basic set of scripts to configure Betaflight from your Taranis TX (OpenTx)
+# inav-tx-lua-basic
+This is a rebrand for iNav of a basic set of scripts to configure betaflight from your Taranis TX (OpenTx). 
 
 This is a simplied set of configuration 'lua' scripts, based on the v0.3 version of the '[betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)' repository.
 The 'betaflight-tx-lua-scripts' repository now contains many more screens.  This version has only the "PIDs", "Rates" and "VTX" screens.
@@ -14,4 +14,4 @@ The VTX screen has the following enhancements:
 
 * Shows 'Retrying' if save-retry happens.
 
-See the [Releases page](https://github.com/ethomas997/betaflight-tx-lua-basic/releases) to install the scripts.
+See the [Releases page](https://github.com/David-VG/betaflight-tx-lua-basic/releases) to install the scripts.

@@ -1,5 +1,5 @@
 -- load msp.lua
-assert(loadScript("/SCRIPTS/BF/msp_sp.lua"))()
+assert(loadScript("/SCRIPTS/iNAVTX/msp_sp.lua"))()
 
 -- getter
 local MSP_RC_TUNING     = 111
@@ -173,7 +173,7 @@ local function drawScreen(page,page_locked)
 
    local screen_title = page.title
 
-   drawScreenTitle("Betaflight / "..screen_title)
+   drawScreenTitle("iNAV / "..screen_title)
 
    for i=1,#(page.text) do
       local f = page.text[i]
